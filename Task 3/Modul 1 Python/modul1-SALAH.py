@@ -1,0 +1,2 @@
+print("Baris")
+ print("INDENTASI")
